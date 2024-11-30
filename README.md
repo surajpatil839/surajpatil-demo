@@ -1,4 +1,4 @@
 # surajpatil-demo
 this is my first Git repository
 <br>
-Author  - Suraj Patil
+Author - Suraj Patil
